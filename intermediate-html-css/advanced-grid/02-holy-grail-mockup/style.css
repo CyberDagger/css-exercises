@@ -63,7 +63,9 @@
   font-size: 12px;
   font-weight: normal;
   border-radius: 10px;
-  object-fit: cover;
+}
+
+.sidebar .photo img {
   max-width: 100%;
 }
 
